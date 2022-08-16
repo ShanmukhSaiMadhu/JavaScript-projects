@@ -1,2 +1,2 @@
 # 1. Countdown Timer
-## newyear-countdown-timer.netlify.app
+## https://newyear-countdown-timer.netlify.app/
